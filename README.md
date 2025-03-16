@@ -23,6 +23,7 @@ A comprehensive tool for analyzing and optimizing firewall rulesets, detecting a
 | `expert_system.py` | AI optimization engine |
 |`parsing.py`| Rule parsing utilities |
 |`policyanalyzer.py`| Policy analysis library |
+|`definitions.py`| Provides definition for the rules |
 
 ## Optimization Modes
 - **Predefined Logic**: Rule reordering and removal
