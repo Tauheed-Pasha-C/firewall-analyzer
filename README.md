@@ -24,6 +24,11 @@ A comprehensive tool for analyzing and optimizing firewall rulesets, detecting a
 |`parsing.py`| Rule parsing utilities |
 |`policyanalyzer.py`| Policy analysis library |
 
+## Optimization Modes
+- **Predefined Logic**: Rule reordering and removal
+- **AI-Driven**: Expert system with merge capabilities
+
+
 ## API Documentation
 | Method | Endpoint | Description |
 |--------|----------|-------------|
