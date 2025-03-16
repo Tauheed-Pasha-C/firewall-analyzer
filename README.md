@@ -34,5 +34,5 @@ A comprehensive tool for analyzing and optimizing firewall rulesets, detecting a
 |--------|----------|-------------|
 | POST | `/submit-rules` | Upload firwall rules (CSV/JSON) |
 | POST | `/analyze/{job_id}` | Start analysis job |
-| GET | `/results/{job_id}` | Get analysis rsults |
+| GET | `/results/{job_id}` | Get analysis results |
 
